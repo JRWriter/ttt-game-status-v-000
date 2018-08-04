@@ -43,9 +43,16 @@ end
 end
 
 def winner(board)
+  if won?(board)
+    win_combination = won?(board)
+    winner = board[win_combination[0]]
+    return winner
+  else
+    return
+    nil
+  end
+end
   
-end
-end
 
 
 
