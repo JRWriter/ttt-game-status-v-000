@@ -56,10 +56,10 @@ def winner(board)
   end
 end
   
-//key words that will require end
-//if else statements
-//iterators
-//method definitions (def)
+#key words that will require end
+#if else statements
+#iterators
+#method definitions (def)
 
 
 
